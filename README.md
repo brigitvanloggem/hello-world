@@ -1,3 +1,3 @@
 # hello-world
 - bullet
-and another bullet
+- and another bullet
